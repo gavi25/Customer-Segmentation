@@ -64,6 +64,6 @@ The dataset includes information on approximately 200 active customers with the 
 ## Files
 
 - `Mall_Customers.csv`: The dataset used for clustering.
-- `Customer_Segmentation.ipynb`: Jupyter notebook with code and analysis.
+- `Mall_Customer_Segmentation_Analysis.ipynb`: Colab notebook with code and analysis.
 
 

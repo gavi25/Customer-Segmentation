@@ -44,7 +44,7 @@ The dataset includes information on approximately 200 active customers with the 
    - Pairwise Relationships: Examined relationships between age, annual income, and spending score using pair plots.
 
 
-##K-Means Clustering
+## K-Means Clustering
    - Optimal Number of Clusters: Determined the optimal number of clusters using the Elbow method.
    - Clustering: Applied K-Means clustering to group customers into five clusters based on their annual income and spending score.
    - Visualization: Plotted the clusters and their centroids to visualize the segmentation results.

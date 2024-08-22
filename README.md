@@ -1,5 +1,3 @@
-# Customer-Segmentation
-
 # Customer Segmentation Using K-Means Clustering
 
 ## Overview
@@ -38,6 +36,19 @@ The dataset includes information on approximately 200 active customers with the 
    - Applied K-Means clustering to segment customers into 5 clusters.
    - Used the Elbow method to determine the optimal number of clusters.
    - Visualized clusters and centroids to understand the segmentation results.
+
+## Data Analysis and Visualization
+   - Exploratory Data Analysis (EDA): Performed distribution analysis of age, annual income, and spending scores using histograms and density plots.
+   -  Gender Distribution: Visualized the gender distribution using a pie chart.
+   - Correlation Analysis: Used a heatmap to display the correlation between numerical features.
+   - Pairwise Relationships: Examined relationships between age, annual income, and spending score using pair plots.
+
+
+##K-Means Clustering
+   - Optimal Number of Clusters: Determined the optimal number of clusters using the Elbow method.
+   - Clustering: Applied K-Means clustering to group customers into five clusters based on their annual income and spending score.
+   - Visualization: Plotted the clusters and their centroids to visualize the segmentation results.
+
 
 ## Results
 

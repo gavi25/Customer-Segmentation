@@ -1,5 +1,8 @@
 # Customer Segmentation Using K-Means Clustering
 
+![image](https://github.com/user-attachments/assets/ae3a51f0-62ba-4a39-a9d7-e3a3fcb11ae1)
+
+
 ## Overview
 
 This project focuses on segmenting customers of a retail mall using the K-Means clustering algorithm. The primary goal is to analyze customer behavior based on their annual income and spending score to create distinct customer profiles. This segmentation helps in crafting targeted marketing strategies and improving customer engagement.
